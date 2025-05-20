@@ -1,4 +1,4 @@
-# 📚 History Quiz App (ST104949)
+# 📚 History Quiz App (ST10494984)
 
 A simple and interactive **History Quiz App** built using **Kotlin and Java** in **Android Studio**. This app is designed to test users' knowledge of historical facts and events through a series of multiple-choice questions. It is fully compatible with Android devices and emulators such as **BlueStacks**.
 
@@ -6,8 +6,8 @@ A simple and interactive **History Quiz App** built using **Kotlin and Java** in
 
 ## 🎓 Student Info
 
-- **Student ID**: ST104949  
-- **Email**: st104949@vcconnect.edu.za
+- **Student ID**: ST10494984
+- **Email**: st10494984@vcconnect.edu.za
 
 ---
 
